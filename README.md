@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maheshs-techie
+- 👋 Hi, I’m @Mahesh Siripothula
 - 👀 I’m interested in Automation and Manual Testing
 - 🌱 I’m currently learning API Testing, Selenium, Automation Frameworks
 - 💞️ I’m looking to collaborate on API Testing, Selenium, Automation Frameworks
